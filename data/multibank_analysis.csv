@@ -1,0 +1,15 @@
+kategori,bank_tambahan,n,pct,tipe
+Single Bank,-,1184,68.4,Eksklusif XYZ
+Multi Bank,Ada bank lain,546,31.6,Multibank
+Bank Simpan Tambahan,Bank Central Asia (BCA),188,10.9,Simpan
+Bank Simpan Tambahan,Bank Rakyat Indonesia (BRI),148,8.6,Simpan
+Bank Simpan Tambahan,Bank Mandiri,84,4.9,Simpan
+Bank Simpan Tambahan,Bank Negara Indonesia (BNI),59,3.4,Simpan
+Bank Simpan Tambahan,Lainnya,43,2.5,Simpan
+Bank Simpan Tambahan,Bank Tabungan Negara (BTN),8,0.5,Simpan
+Bank Transaksi Tambahan,Bank Central Asia (BCA),188,10.9,Transaksi
+Bank Transaksi Tambahan,Bank Rakyat Indonesia (BRI),148,8.6,Transaksi
+Bank Transaksi Tambahan,Bank Mandiri,84,4.9,Transaksi
+Bank Transaksi Tambahan,Bank Negara Indonesia (BNI),59,3.4,Transaksi
+Bank Transaksi Tambahan,Lainnya,43,2.5,Transaksi
+Bank Transaksi Tambahan,Bank Tabungan Negara (BTN),8,0.5,Transaksi

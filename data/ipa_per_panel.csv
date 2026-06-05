@@ -1,0 +1,155 @@
+panel,kategori,atribut,atribut_idx,importance,performance,gap,kuadran
+Teller,Kantor Cabang,Kantor cabangnya banyak (dekat dengan tempat tinggal dan ata,1,5.754,5.249,-0.505,Low Priority
+Teller,Kantor Cabang,Menyediakan layanan weekend banking - XYZ,2,5.797,5.217,-0.579,Low Priority
+Teller,Kantor Cabang,Penampilan luar bangunan cabang dan papan nama cabang dalam ,3,5.842,5.313,-0.528,Low Priority
+Teller,Kantor Cabang,Tersedia area parkir (khusus untuk cabang di gedung sendiri/,4,5.818,5.324,-0.495,Low Priority
+Teller,Kantor Cabang,Ada petugas Sekuriti yang mengatur di area parkir (khusus un,5,5.865,5.206,-0.658,Low Priority
+Teller,Kantor Cabang,Petunjuk arah parkir untuk nasabah  yang jelas dan bersih (p,6,5.81,5.285,-0.526,Low Priority
+Teller,Kantor Cabang,Kebersihan di area parkir - XYZ,7,5.814,5.31,-0.504,Low Priority
+Teller,Kantor Cabang,Kebersihan pada area masuk cabang - XYZ,8,5.846,5.384,-0.462,Possible Overkill
+Teller,Kantor Cabang,Kebersihan dan kenyamanan area Banking Hall (kursi ruang tun,9,5.862,5.381,-0.482,Possible Overkill
+Teller,Kantor Cabang,Tersedia tempat duduk yang cukup di ruang tunggu - XYZ,10,5.827,5.27,-0.556,Low Priority
+Teller,Kantor Cabang,Pendingin ruangan di ruang tunggu sejuk  - XYZ,11,5.873,5.395,-0.478,Keep Up
+Teller,Kantor Cabang,Ruang tunggu nyaman - XYZ,12,5.866,5.352,-0.514,Low Priority
+Teller,Kantor Cabang,Disediakan Wifi gratis di ruang tunggu - XYZ,13,5.761,5.078,-0.682,Low Priority
+Teller,Kantor Cabang,Tersedia TV di ruang tunggu - XYZ,14,5.803,5.327,-0.476,Low Priority
+Teller,Kantor Cabang,Area ruang tunggunya wangi - XYZ,15,5.855,5.32,-0.535,Low Priority
+Teller,Kantor Cabang,Diputarkan lagu lembut yang mengalun di area banking hall - ,16,5.769,5.125,-0.644,Low Priority
+Teller,Kantor Cabang,Banking hall/area ruang tunggunya bersih - XYZ,17,5.866,5.367,-0.499,Possible Overkill
+Teller,Kantor Cabang,Terdapat tempat sampah dan mudah ditemukan - XYZ,18,5.837,5.377,-0.46,Possible Overkill
+Teller,Kantor Cabang,Tersedia penunjuk arah ruang pelayanan nasabah yang jelas/mu,19,5.854,5.406,-0.449,Possible Overkill
+Teller,Kantor Cabang,"Area ruang Tertata dengan baik, rapi dan teratur - XYZ",20,5.857,5.32,-0.536,Low Priority
+Teller,Kantor Cabang,Tata letak di kantor cabang mudah untuk diikuti dan mudah un,21,5.836,5.388,-0.448,Possible Overkill
+Teller,Kantor Cabang,Terdapat tanaman hidup - XYZ,22,5.764,5.285,-0.479,Low Priority
+Teller,Kantor Cabang,Tersedianya ruang laktasi  - XYZ,23,5.772,5.256,-0.516,Low Priority
+Teller,Kantor Cabang,Kemudahan mengisi data-data pembukaan rekening baru pada e-f,24,5.867,5.416,-0.451,Keep Up
+Teller,Kantor Cabang,Terdapat petunjuk arah ke toilet - XYZ,25,5.842,5.342,-0.5,Low Priority
+Teller,Kantor Cabang,Terdapat toilet di cabang - XYZ,26,5.879,5.42,-0.459,Keep Up
+Teller,Kantor Cabang,Toilet bersih - XYZ,27,5.896,5.356,-0.54,Keep Up
+Teller,Kantor Cabang,Toilet selalu harum dan tidak bau - XYZ,28,5.875,5.349,-0.526,Quick Win
+Teller,Kantor Cabang,Tersedia wastafel di area toilet - XYZ,29,5.845,5.367,-0.479,Possible Overkill
+Teller,Kantor Cabang,Selalu tersedia tisu di toilet - XYZ,30,5.837,5.342,-0.495,Low Priority
+Teller,Kantor Cabang,Selalu tersedia sabun pencuci tangan di toilet - XYZ,31,5.849,5.374,-0.475,Possible Overkill
+Teller,Kantor Cabang,Air selalu mengalir dengan lancar di semua keran yang ada di,32,5.864,5.399,-0.465,Possible Overkill
+Teller,Kantor Cabang,Toilet selalu berfungsi dengan baik - XYZ,33,5.877,5.431,-0.447,Keep Up
+Teller,Kantor Cabang,Terdapat tempat sampah di toilet dan mudah ditemukan - XYZ,34,5.86,5.406,-0.454,Possible Overkill
+Teller,Kantor Cabang,Tempat sampah tidak penuh - XYZ,35,5.837,5.377,-0.46,Possible Overkill
+Teller,Teller,Waktu antrian di Teller cepat - XYZ,1,5.849,5.221,-0.628,Low Priority
+Teller,Teller,Sistem antrian yang dilengkapi dengan nomor antrian - XYZ,2,5.883,5.473,-0.41,Keep Up
+Teller,Teller,Layanan yang diberikan teller cepat      - XYZ,3,5.886,5.384,-0.501,Keep Up
+Teller,Teller,Jumlah teller di kantor cabang mencukupi pada saat jam sibuk,4,5.797,5.352,-0.444,Low Priority
+Teller,Teller,Tellernya berpenampilan rapi dan menarik - XYZ,5,5.899,5.516,-0.383,Keep Up
+Teller,Teller,Akurat dalam melakukan transaksi (Tidak salah dalam melakuka,6,5.888,5.445,-0.443,Keep Up
+Teller,Teller,Kehandalan sistem komputer untuk Teller (online) - XYZ,7,5.884,5.48,-0.404,Keep Up
+Teller,Teller,Teller memiliki pengetahuan yang memadai - XYZ,8,5.895,5.516,-0.379,Keep Up
+Teller,Teller,"Teller memberikan edukasi tentang penggunaan e-channel (ATM,",9,5.846,5.37,-0.476,Possible Overkill
+Teller,Teller,Tellernya ramah selama melayani (tersenyum dan tidak jutek s,10,5.888,5.402,-0.486,Keep Up
+Teller,Teller,Tellernya mengucapkan salam saat menyambut dan mengakhiri la,11,5.892,5.477,-0.416,Keep Up
+Teller,Teller,Tellernya tidak mengobrol dengan rekannya / petugas bank lai,12,5.862,5.413,-0.45,Possible Overkill
+Teller,Teller,Menunjukkan keinginan untuk membantu nasabah (selalu menanya,13,5.88,5.48,-0.399,Keep Up
+Teller,Teller,Teller memperkenalkan diri/menyebut namanya saat menyambut n,14,5.869,5.388,-0.481,Keep Up
+Teller,Teller,Memberikan pelayanan dengan pendekatan personal (menyebut na,15,5.874,5.409,-0.465,Keep Up
+Teller,Teller,Tellernya selalu melakukan validas setelah selesai transaksi,16,5.884,5.456,-0.429,Keep Up
+Teller,Teller,Memberikan usaha lebih/extra effort untuk nasabahnya (memban,17,5.866,5.367,-0.499,Possible Overkill
+Teller,Teller,Terdapat papan nama Teller di area meja kerja Teller - XYZ,18,5.883,5.53,-0.353,Keep Up
+Teller,Teller,Terdapat informasi/signage transaksi di meja kerja teller - ,19,5.868,5.445,-0.423,Keep Up
+Teller,Customer Service,CS ramah selama melayani (tersenyum dan tidak jutek selama m,1,5.917,5.309,-0.608,Quick Win
+Teller,Customer Service,Jumlah Customer Service yang melayani cukup pada saat jam si,2,5.807,5.147,-0.66,Low Priority
+Teller,Customer Service,Mengetahui pengetahuan yang baik tentang produk perbankan  -,3,5.895,5.309,-0.586,Quick Win
+Teller,Customer Service,Memberikan solusi yang tepat terhadap permasalahan nasabah  ,4,5.901,5.294,-0.606,Quick Win
+Teller,Customer Service,Cepat dalam memberikan layanan - XYZ,5,5.878,5.221,-0.658,Quick Win
+Teller,Customer Service,Teliti dalam memberikan layanan - XYZ,6,5.895,5.368,-0.527,Keep Up
+Teller,Customer Service,Waktu antrian di CS cepat - XYZ,7,5.829,5.118,-0.711,Low Priority
+Teller,Customer Service,CS memiliki kehandalan sistem komputer di meja CS (online) -,8,5.895,5.338,-0.557,Quick Win
+Teller,Customer Service,CS memiliki pengetahuan dalam menjawab pertanyaan nasabah at,9,5.895,5.324,-0.571,Quick Win
+Teller,Customer Service,CS memiliki pemahaman terhadap permintaan/permasalahan nasab,10,5.884,5.324,-0.56,Quick Win
+Teller,Customer Service,"CS memberikan edukasi tentang penggunaan e-channel (ATM, Mob",11,5.867,5.309,-0.559,Quick Win
+Teller,Customer Service,CS menjelaskan proses pembukaan rekening baru dengan e-form ,12,5.906,5.426,-0.48,Keep Up
+Teller,Customer Service,Memberikan informasi yang lengkap dan akurat - XYZ,13,5.906,5.353,-0.553,Keep Up
+Teller,Customer Service,Tidak mengobrol dengan rekan kerja  - XYZ,14,5.928,5.324,-0.605,Quick Win
+Teller,Customer Service,CS berpenampilan rapi dan menarik  - XYZ,15,5.895,5.426,-0.469,Keep Up
+Teller,Customer Service,Menunjukkan keinginan untuk membantu nasabah - XYZ,16,5.884,5.25,-0.634,Quick Win
+Teller,Customer Service,Memberikan pelayanan dengan pendekatan personal (menyebut na,17,5.867,5.309,-0.559,Quick Win
+Teller,Customer Service,CSnya mengucapkan salam saat menyambut dan mengakhiri layana,18,5.906,5.353,-0.553,Keep Up
+Teller,Customer Service,CSnya mengucapkan terima kasih saat mengakhiri layanan - XYZ,19,5.901,5.382,-0.518,Keep Up
+Teller,Customer Service,"Menginformasikan produk, promo, dan kebijakan terbaru kepada",20,5.873,5.265,-0.608,Quick Win
+Teller,Customer Service,CSnya menawarkan bantuan lain ketika akan mengakhiri layanan,21,5.878,5.324,-0.555,Quick Win
+Teller,Customer Service,Terdapat papan nama CS di area meja kerja CS - XYZ,22,5.895,5.324,-0.571,Quick Win
+Teller,Customer Service,Terdapat informasi/signage terkait status transaksi CS - XYZ,23,5.878,5.324,-0.555,Quick Win
+CS,Kantor Cabang,Kantor cabangnya banyak (dekat dengan tempat tinggal dan ata,1,5.76,5.347,-0.412,Low Priority
+CS,Kantor Cabang,Menyediakan layanan weekend banking - XYZ,2,5.803,5.249,-0.554,Low Priority
+CS,Kantor Cabang,Penampilan luar bangunan cabang dan papan nama cabang dalam ,3,5.859,5.366,-0.493,Low Priority
+CS,Kantor Cabang,Tersedia area parkir (khusus untuk cabang di gedung sendiri/,4,5.815,5.287,-0.528,Low Priority
+CS,Kantor Cabang,Ada petugas Sekuriti yang mengatur di area parkir (khusus un,5,5.836,5.275,-0.56,Low Priority
+CS,Kantor Cabang,Petunjuk arah parkir untuk nasabah  yang jelas dan bersih (p,6,5.829,5.279,-0.55,Low Priority
+CS,Kantor Cabang,Kebersihan di area parkir - XYZ,7,5.825,5.283,-0.542,Low Priority
+CS,Kantor Cabang,Kebersihan pada area masuk cabang - XYZ,8,5.862,5.343,-0.519,Low Priority
+CS,Kantor Cabang,Kebersihan dan kenyamanan area Banking Hall (kursi ruang tun,9,5.864,5.351,-0.513,Quick Win
+CS,Kantor Cabang,Tersedia tempat duduk yang cukup di ruang tunggu - XYZ,10,5.85,5.317,-0.533,Low Priority
+CS,Kantor Cabang,Pendingin ruangan di ruang tunggu sejuk  - XYZ,11,5.891,5.408,-0.484,Keep Up
+CS,Kantor Cabang,Ruang tunggu nyaman - XYZ,12,5.868,5.351,-0.517,Quick Win
+CS,Kantor Cabang,Disediakan Wifi gratis di ruang tunggu - XYZ,13,5.779,5.117,-0.662,Low Priority
+CS,Kantor Cabang,Tersedia TV di ruang tunggu - XYZ,14,5.788,5.306,-0.483,Low Priority
+CS,Kantor Cabang,Area ruang tunggunya wangi - XYZ,15,5.859,5.328,-0.531,Low Priority
+CS,Kantor Cabang,Diputarkan lagu lembut yang mengalun di area banking hall - ,16,5.719,5.143,-0.576,Low Priority
+CS,Kantor Cabang,Banking hall/area ruang tunggunya bersih - XYZ,17,5.873,5.396,-0.477,Keep Up
+CS,Kantor Cabang,Terdapat tempat sampah dan mudah ditemukan - XYZ,18,5.821,5.309,-0.511,Low Priority
+CS,Kantor Cabang,Tersedia penunjuk arah ruang pelayanan nasabah yang jelas/mu,19,5.854,5.37,-0.485,Possible Overkill
+CS,Kantor Cabang,"Area ruang Tertata dengan baik, rapi dan teratur - XYZ",20,5.866,5.321,-0.545,Quick Win
+CS,Kantor Cabang,Tata letak di kantor cabang mudah untuk diikuti dan mudah un,21,5.86,5.355,-0.505,Low Priority
+CS,Kantor Cabang,Terdapat tanaman hidup - XYZ,22,5.786,5.185,-0.601,Low Priority
+CS,Kantor Cabang,Tersedianya ruang laktasi  - XYZ,23,5.723,5.192,-0.53,Low Priority
+CS,Kantor Cabang,Kemudahan mengisi data-data pembukaan rekening baru pada e-f,24,5.858,5.347,-0.511,Low Priority
+CS,Kantor Cabang,Terdapat petunjuk arah ke toilet - XYZ,25,5.834,5.279,-0.554,Low Priority
+CS,Kantor Cabang,Terdapat toilet di cabang - XYZ,26,5.84,5.355,-0.486,Low Priority
+CS,Kantor Cabang,Toilet bersih - XYZ,27,5.88,5.343,-0.536,Quick Win
+CS,Kantor Cabang,Toilet selalu harum dan tidak bau - XYZ,28,5.861,5.309,-0.552,Low Priority
+CS,Kantor Cabang,Tersedia wastafel di area toilet - XYZ,29,5.825,5.287,-0.539,Low Priority
+CS,Kantor Cabang,Selalu tersedia tisu di toilet - XYZ,30,5.838,5.343,-0.495,Low Priority
+CS,Kantor Cabang,Selalu tersedia sabun pencuci tangan di toilet - XYZ,31,5.852,5.317,-0.535,Low Priority
+CS,Kantor Cabang,Air selalu mengalir dengan lancar di semua keran yang ada di,32,5.85,5.343,-0.506,Low Priority
+CS,Kantor Cabang,Toilet selalu berfungsi dengan baik - XYZ,33,5.869,5.313,-0.556,Quick Win
+CS,Kantor Cabang,Terdapat tempat sampah di toilet dan mudah ditemukan - XYZ,34,5.839,5.321,-0.519,Low Priority
+CS,Kantor Cabang,Tempat sampah tidak penuh - XYZ,35,5.834,5.34,-0.494,Low Priority
+CS,Teller,Waktu antrian di Teller cepat - XYZ,1,5.853,5.368,-0.485,Low Priority
+CS,Teller,Sistem antrian yang dilengkapi dengan nomor antrian - XYZ,2,5.882,5.515,-0.368,Keep Up
+CS,Teller,Layanan yang diberikan teller cepat      - XYZ,3,5.858,5.441,-0.417,Possible Overkill
+CS,Teller,Jumlah teller di kantor cabang mencukupi pada saat jam sibuk,4,5.77,5.353,-0.417,Low Priority
+CS,Teller,Tellernya berpenampilan rapi dan menarik - XYZ,5,5.887,5.5,-0.387,Keep Up
+CS,Teller,Akurat dalam melakukan transaksi (Tidak salah dalam melakuka,6,5.882,5.5,-0.382,Keep Up
+CS,Teller,Kehandalan sistem komputer untuk Teller (online) - XYZ,7,5.868,5.412,-0.456,Keep Up
+CS,Teller,Teller memiliki pengetahuan yang memadai - XYZ,8,5.887,5.456,-0.431,Keep Up
+CS,Teller,"Teller memberikan edukasi tentang penggunaan e-channel (ATM,",9,5.868,5.412,-0.456,Keep Up
+CS,Teller,Tellernya ramah selama melayani (tersenyum dan tidak jutek s,10,5.877,5.456,-0.422,Keep Up
+CS,Teller,Tellernya mengucapkan salam saat menyambut dan mengakhiri la,11,5.868,5.426,-0.441,Keep Up
+CS,Teller,Tellernya tidak mengobrol dengan rekannya / petugas bank lai,12,5.887,5.412,-0.475,Keep Up
+CS,Teller,Menunjukkan keinginan untuk membantu nasabah (selalu menanya,13,5.882,5.441,-0.441,Keep Up
+CS,Teller,Teller memperkenalkan diri/menyebut namanya saat menyambut n,14,5.833,5.485,-0.348,Possible Overkill
+CS,Teller,Memberikan pelayanan dengan pendekatan personal (menyebut na,15,5.863,5.382,-0.48,Keep Up
+CS,Teller,Tellernya selalu melakukan validas setelah selesai transaksi,16,5.887,5.515,-0.373,Keep Up
+CS,Teller,Memberikan usaha lebih/extra effort untuk nasabahnya (memban,17,5.882,5.426,-0.456,Keep Up
+CS,Teller,Terdapat papan nama Teller di area meja kerja Teller - XYZ,18,5.882,5.544,-0.338,Keep Up
+CS,Teller,Terdapat informasi/signage transaksi di meja kerja teller - ,19,5.863,5.515,-0.348,Keep Up
+CS,Customer Service,CS ramah selama melayani (tersenyum dan tidak jutek selama m,1,5.877,5.385,-0.493,Keep Up
+CS,Customer Service,Jumlah Customer Service yang melayani cukup pada saat jam si,2,5.802,5.275,-0.527,Low Priority
+CS,Customer Service,Mengetahui pengetahuan yang baik tentang produk perbankan  -,3,5.871,5.498,-0.372,Keep Up
+CS,Customer Service,Memberikan solusi yang tepat terhadap permasalahan nasabah  ,4,5.874,5.408,-0.466,Keep Up
+CS,Customer Service,Cepat dalam memberikan layanan - XYZ,5,5.873,5.37,-0.503,Keep Up
+CS,Customer Service,Teliti dalam memberikan layanan - XYZ,6,5.877,5.457,-0.421,Keep Up
+CS,Customer Service,Waktu antrian di CS cepat - XYZ,7,5.812,5.2,-0.612,Low Priority
+CS,Customer Service,CS memiliki kehandalan sistem komputer di meja CS (online) -,8,5.876,5.457,-0.42,Keep Up
+CS,Customer Service,CS memiliki pengetahuan dalam menjawab pertanyaan nasabah at,9,5.883,5.479,-0.404,Keep Up
+CS,Customer Service,CS memiliki pemahaman terhadap permintaan/permasalahan nasab,10,5.879,5.442,-0.437,Keep Up
+CS,Customer Service,"CS memberikan edukasi tentang penggunaan e-channel (ATM, Mob",11,5.847,5.43,-0.417,Possible Overkill
+CS,Customer Service,CS menjelaskan proses pembukaan rekening baru dengan e-form ,12,5.874,5.43,-0.444,Keep Up
+CS,Customer Service,Memberikan informasi yang lengkap dan akurat - XYZ,13,5.873,5.464,-0.409,Keep Up
+CS,Customer Service,Tidak mengobrol dengan rekan kerja  - XYZ,14,5.838,5.392,-0.446,Possible Overkill
+CS,Customer Service,CS berpenampilan rapi dan menarik  - XYZ,15,5.869,5.502,-0.367,Keep Up
+CS,Customer Service,Menunjukkan keinginan untuk membantu nasabah - XYZ,16,5.868,5.434,-0.434,Keep Up
+CS,Customer Service,Memberikan pelayanan dengan pendekatan personal (menyebut na,17,5.866,5.351,-0.515,Quick Win
+CS,Customer Service,CSnya mengucapkan salam saat menyambut dan mengakhiri layana,18,5.876,5.483,-0.393,Keep Up
+CS,Customer Service,CSnya mengucapkan terima kasih saat mengakhiri layanan - XYZ,19,5.887,5.506,-0.381,Keep Up
+CS,Customer Service,"Menginformasikan produk, promo, dan kebijakan terbaru kepada",20,5.845,5.389,-0.456,Possible Overkill
+CS,Customer Service,CSnya menawarkan bantuan lain ketika akan mengakhiri layanan,21,5.869,5.442,-0.428,Keep Up
+CS,Customer Service,Terdapat papan nama CS di area meja kerja CS - XYZ,22,5.868,5.506,-0.363,Keep Up
+CS,Customer Service,Terdapat informasi/signage terkait status transaksi CS - XYZ,23,5.861,5.438,-0.424,Possible Overkill

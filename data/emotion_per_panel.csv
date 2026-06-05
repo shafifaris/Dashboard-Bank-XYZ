@@ -1,0 +1,33 @@
+panel,emosi,tipe,mean_score,pct_strong,n
+CS (KUOTA 50%),Bahagia,positif,5.778,97.6,865
+CS (KUOTA 50%),Percaya,positif,5.817,98.7,865
+CS (KUOTA 50%),Dihargai,positif,5.808,98.3,865
+CS (KUOTA 50%),Diperhatikan,positif,5.795,98.5,865
+CS (KUOTA 50%),Aman,positif,5.831,98.8,865
+CS (KUOTA 50%),Fokus,positif,5.731,97.0,865
+CS (KUOTA 50%),Dimanjakan,positif,5.738,96.4,865
+CS (KUOTA 50%),Tertarik,positif,5.741,97.0,865
+CS (KUOTA 50%),Semangat,positif,5.77,97.6,865
+CS (KUOTA 50%),Tidak Puas,negatif,1.532,8.7,865
+CS (KUOTA 50%),Frustasi,negatif,1.512,8.2,865
+CS (KUOTA 50%),Kecewa,negatif,1.508,8.4,865
+CS (KUOTA 50%),Tertekan,negatif,1.582,9.8,865
+CS (KUOTA 50%),Tidak Bahagia,negatif,1.593,10.1,865
+CS (KUOTA 50%),Diabaikan,negatif,1.602,10.5,865
+CS (KUOTA 50%),Tergesa-gesa,negatif,1.639,10.1,865
+Teller (KUOTA 50%),Bahagia,positif,5.779,98.2,865
+Teller (KUOTA 50%),Percaya,positif,5.823,99.0,865
+Teller (KUOTA 50%),Dihargai,positif,5.812,98.8,865
+Teller (KUOTA 50%),Diperhatikan,positif,5.813,98.7,865
+Teller (KUOTA 50%),Aman,positif,5.821,99.1,865
+Teller (KUOTA 50%),Fokus,positif,5.75,98.0,865
+Teller (KUOTA 50%),Dimanjakan,positif,5.756,97.5,865
+Teller (KUOTA 50%),Tertarik,positif,5.706,97.0,865
+Teller (KUOTA 50%),Semangat,positif,5.79,97.9,865
+Teller (KUOTA 50%),Tidak Puas,negatif,1.564,10.1,865
+Teller (KUOTA 50%),Frustasi,negatif,1.523,9.1,865
+Teller (KUOTA 50%),Kecewa,negatif,1.541,9.0,865
+Teller (KUOTA 50%),Tertekan,negatif,1.676,12.0,865
+Teller (KUOTA 50%),Tidak Bahagia,negatif,1.513,8.6,865
+Teller (KUOTA 50%),Diabaikan,negatif,1.627,10.9,865
+Teller (KUOTA 50%),Tergesa-gesa,negatif,1.694,10.8,865

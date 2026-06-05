@@ -1,0 +1,19 @@
+tipe,bank,n,pct
+Bank Simpan Utama,Bank XYZ,1578,91.2
+Bank Simpan Utama,Bank Central Asia (BCA),49,2.8
+Bank Simpan Utama,Bank Rakyat Indonesia (BRI),32,1.8
+Bank Simpan Utama,Bank Mandiri,31,1.8
+Bank Simpan Utama,Bank Negara Indonesia (BNI),17,1.0
+Bank Simpan Utama,Lainnya,16,0.9
+Bank Simpan Utama,Bank Permata,2,0.1
+Bank Simpan Utama,Bank CIMB Niaga,2,0.1
+Bank Simpan Utama,Bank Panin,1,0.1
+Bank Simpan Utama,Bank Mega,1,0.1
+Bank Transaksi Utama,Bank XYZ,1532,88.6
+Bank Transaksi Utama,Bank Central Asia (BCA),84,4.9
+Bank Transaksi Utama,Bank Mandiri,39,2.3
+Bank Transaksi Utama,Bank Rakyat Indonesia (BRI),39,2.3
+Bank Transaksi Utama,Bank Negara Indonesia (BNI),17,1.0
+Bank Transaksi Utama,Lainnya,15,0.9
+Bank Transaksi Utama,Bank Permata,3,0.2
+Bank Transaksi Utama,Bank Tabungan Negara (BTN),1,0.1

@@ -1,0 +1,111 @@
+kategori,atribut_idx,col_imp,col_sat,importance,performance,gap,kuadran
+Kantor Cabang,1,T_KC2_2,T_KC2_3,5.757,5.297,-0.46,Low Priority
+Kantor Cabang,2,T_KC2_5,T_KC2_6,5.8,5.233,-0.567,Low Priority
+Kantor Cabang,3,T_KC2_8,T_KC2_9,5.85,5.339,-0.511,Low Priority
+Kantor Cabang,4,T_KC2_11,T_KC2_12,5.817,5.306,-0.511,Low Priority
+Kantor Cabang,5,T_KC2_14,T_KC2_15,5.85,5.24,-0.61,Low Priority
+Kantor Cabang,6,T_KC2_17,T_KC2_18,5.82,5.282,-0.538,Low Priority
+Kantor Cabang,7,T_KC2_20,T_KC2_21,5.82,5.297,-0.523,Low Priority
+Kantor Cabang,8,T_KC2_23,T_KC2_24,5.854,5.364,-0.49,Low Priority
+Kantor Cabang,9,T_KC2_26,T_KC2_27,5.863,5.366,-0.497,Low Priority
+Kantor Cabang,10,T_KC2_29,T_KC2_30,5.838,5.293,-0.545,Low Priority
+Kantor Cabang,11,T_KC2_32,T_KC2_33,5.882,5.401,-0.481,Quick Win (prioritas perbaikan)
+Kantor Cabang,12,T_KC2_35,T_KC2_36,5.867,5.352,-0.515,Quick Win (prioritas perbaikan)
+Kantor Cabang,13,T_KC2_38,T_KC2_39,5.77,5.097,-0.673,Low Priority
+Kantor Cabang,14,T_KC2_41,T_KC2_42,5.796,5.317,-0.479,Low Priority
+Kantor Cabang,15,T_KC2_44,T_KC2_45,5.857,5.324,-0.533,Low Priority
+Kantor Cabang,16,T_KC2_47,T_KC2_48,5.744,5.134,-0.61,Low Priority
+Kantor Cabang,17,T_KC2_50,T_KC2_51,5.869,5.381,-0.488,Quick Win (prioritas perbaikan)
+Kantor Cabang,18,T_KC2_53,T_KC2_54,5.829,5.344,-0.485,Low Priority
+Kantor Cabang,19,T_KC2_56,T_KC2_57,5.854,5.388,-0.466,Low Priority
+Kantor Cabang,20,T_KC2_59,T_KC2_60,5.861,5.321,-0.541,Low Priority
+Kantor Cabang,21,T_KC2_62,T_KC2_63,5.848,5.372,-0.476,Low Priority
+Kantor Cabang,22,T_KC2_65,T_KC2_66,5.775,5.236,-0.539,Low Priority
+Kantor Cabang,23,T_KC2_68,T_KC2_69,5.747,5.225,-0.522,Low Priority
+Kantor Cabang,24,T_KC2_71,T_KC2_72,5.862,5.383,-0.48,Low Priority
+Kantor Cabang,25,T_KC2_74,T_KC2_75,5.838,5.311,-0.526,Low Priority
+Kantor Cabang,26,T_KC2_77,T_KC2_78,5.86,5.388,-0.471,Low Priority
+Kantor Cabang,27,T_KC2_80,T_KC2_81,5.888,5.35,-0.538,Quick Win (prioritas perbaikan)
+Kantor Cabang,28,T_KC2_83,T_KC2_84,5.868,5.33,-0.539,Quick Win (prioritas perbaikan)
+Kantor Cabang,29,T_KC2_86,T_KC2_87,5.835,5.328,-0.507,Low Priority
+Kantor Cabang,30,T_KC2_89,T_KC2_90,5.838,5.342,-0.495,Low Priority
+Kantor Cabang,31,T_KC2_92,T_KC2_93,5.85,5.346,-0.504,Low Priority
+Kantor Cabang,32,T_KC2_95,T_KC2_96,5.857,5.372,-0.485,Low Priority
+Kantor Cabang,33,T_KC2_98,T_KC2_99,5.873,5.374,-0.5,Quick Win (prioritas perbaikan)
+Kantor Cabang,34,T_KC2_101,T_KC2_102,5.85,5.364,-0.485,Low Priority
+Kantor Cabang,35,T_KC2_104,T_KC2_105,5.835,5.359,-0.476,Low Priority
+Sekuriti,1,T_SC2_2,T_SC2_3,5.865,5.463,-0.401,Possible Overkill
+Sekuriti,2,T_SC2_5,T_SC2_6,5.879,5.502,-0.377,Keep Up (pertahankan)
+Sekuriti,3,T_SC2_8,T_SC2_9,5.879,5.513,-0.366,Keep Up (pertahankan)
+Sekuriti,4,T_SC2_11,T_SC2_12,5.89,5.429,-0.461,Keep Up (pertahankan)
+Sekuriti,5,T_SC2_14,T_SC2_15,5.894,5.484,-0.411,Keep Up (pertahankan)
+Sekuriti,6,T_SC2_17,T_SC2_18,5.887,5.44,-0.448,Keep Up (pertahankan)
+Sekuriti,7,T_SC2_20,T_SC2_21,5.888,5.454,-0.434,Keep Up (pertahankan)
+Sekuriti,8,T_SC2_23,T_SC2_24,5.88,5.44,-0.441,Keep Up (pertahankan)
+Sekuriti,9,T_SC2_26,T_SC2_27,5.887,5.427,-0.461,Keep Up (pertahankan)
+Sekuriti,10,T_SC2_29,T_SC2_30,5.893,5.447,-0.446,Keep Up (pertahankan)
+Sekuriti,11,T_SC2_32,T_SC2_33,5.876,5.408,-0.467,Keep Up (pertahankan)
+Sekuriti,12,T_SC2_35,T_SC2_36,5.886,5.452,-0.433,Keep Up (pertahankan)
+Sekuriti,13,T_SC2_38,T_SC2_39,5.853,5.357,-0.495,Low Priority
+Sekuriti,14,T_SC2_41,T_SC2_42,5.94,5.399,-0.541,Quick Win (prioritas perbaikan)
+Sekuriti,15,T_SC2_44,T_SC2_45,5.88,5.407,-0.474,Keep Up (pertahankan)
+Teller,1,T_TL3_2,T_TL3_3,5.849,5.249,-0.6,Low Priority
+Teller,2,T_TL3_5,T_TL3_6,5.883,5.481,-0.402,Keep Up (pertahankan)
+Teller,3,T_TL3_8,T_TL3_9,5.88,5.395,-0.485,Quick Win (prioritas perbaikan)
+Teller,4,T_TL3_11,T_TL3_12,5.791,5.352,-0.439,Low Priority
+Teller,5,T_TL3_14,T_TL3_15,5.897,5.513,-0.384,Keep Up (pertahankan)
+Teller,6,T_TL3_17,T_TL3_18,5.887,5.456,-0.431,Keep Up (pertahankan)
+Teller,7,T_TL3_20,T_TL3_21,5.881,5.467,-0.414,Keep Up (pertahankan)
+Teller,8,T_TL3_23,T_TL3_24,5.893,5.504,-0.389,Keep Up (pertahankan)
+Teller,9,T_TL3_26,T_TL3_27,5.85,5.378,-0.472,Low Priority
+Teller,10,T_TL3_29,T_TL3_30,5.886,5.413,-0.473,Keep Up (pertahankan)
+Teller,11,T_TL3_32,T_TL3_33,5.888,5.467,-0.421,Keep Up (pertahankan)
+Teller,12,T_TL3_35,T_TL3_36,5.867,5.413,-0.455,Keep Up (pertahankan)
+Teller,13,T_TL3_38,T_TL3_39,5.88,5.473,-0.407,Keep Up (pertahankan)
+Teller,14,T_TL3_41,T_TL3_42,5.862,5.407,-0.456,Possible Overkill
+Teller,15,T_TL3_44,T_TL3_45,5.872,5.404,-0.468,Quick Win (prioritas perbaikan)
+Teller,16,T_TL3_47,T_TL3_48,5.885,5.467,-0.418,Keep Up (pertahankan)
+Teller,17,T_TL3_50,T_TL3_51,5.869,5.378,-0.491,Quick Win (prioritas perbaikan)
+Teller,18,T_TL3_53,T_TL3_54,5.883,5.533,-0.35,Keep Up (pertahankan)
+Teller,19,T_TL3_56,T_TL3_57,5.867,5.458,-0.409,Keep Up (pertahankan)
+Customer Service,1,T_CS3_2,T_CS3_3,5.884,5.369,-0.515,Quick Win (prioritas perbaikan)
+Customer Service,2,T_CS3_5,T_CS3_6,5.803,5.249,-0.554,Low Priority
+Customer Service,3,T_CS3_8,T_CS3_9,5.875,5.459,-0.415,Keep Up (pertahankan)
+Customer Service,4,T_CS3_11,T_CS3_12,5.879,5.384,-0.494,Quick Win (prioritas perbaikan)
+Customer Service,5,T_CS3_14,T_CS3_15,5.874,5.339,-0.534,Quick Win (prioritas perbaikan)
+Customer Service,6,T_CS3_17,T_CS3_18,5.88,5.438,-0.442,Keep Up (pertahankan)
+Customer Service,7,T_CS3_20,T_CS3_21,5.815,5.183,-0.631,Low Priority
+Customer Service,8,T_CS3_23,T_CS3_24,5.88,5.432,-0.447,Keep Up (pertahankan)
+Customer Service,9,T_CS3_26,T_CS3_27,5.885,5.447,-0.438,Keep Up (pertahankan)
+Customer Service,10,T_CS3_29,T_CS3_30,5.88,5.417,-0.462,Keep Up (pertahankan)
+Customer Service,11,T_CS3_32,T_CS3_33,5.851,5.405,-0.445,Possible Overkill
+Customer Service,12,T_CS3_35,T_CS3_36,5.88,5.429,-0.45,Keep Up (pertahankan)
+Customer Service,13,T_CS3_38,T_CS3_39,5.879,5.441,-0.437,Keep Up (pertahankan)
+Customer Service,14,T_CS3_41,T_CS3_42,5.854,5.378,-0.475,Low Priority
+Customer Service,15,T_CS3_44,T_CS3_45,5.874,5.486,-0.387,Keep Up (pertahankan)
+Customer Service,16,T_CS3_47,T_CS3_48,5.871,5.396,-0.475,Quick Win (prioritas perbaikan)
+Customer Service,17,T_CS3_50,T_CS3_51,5.866,5.342,-0.524,Low Priority
+Customer Service,18,T_CS3_53,T_CS3_54,5.881,5.456,-0.425,Keep Up (pertahankan)
+Customer Service,19,T_CS3_56,T_CS3_57,5.889,5.48,-0.409,Keep Up (pertahankan)
+Customer Service,20,T_CS3_59,T_CS3_60,5.85,5.363,-0.487,Low Priority
+Customer Service,21,T_CS3_62,T_CS3_63,5.871,5.417,-0.454,Keep Up (pertahankan)
+Customer Service,22,T_CS3_65,T_CS3_66,5.873,5.468,-0.404,Keep Up (pertahankan)
+Customer Service,23,T_CS3_68,T_CS3_69,5.864,5.414,-0.45,Possible Overkill
+ATM,1,T_AT3_2,T_AT3_3,5.753,5.489,-0.263,Possible Overkill
+ATM,2,T_AT3_5,T_AT3_6,5.843,5.543,-0.3,Possible Overkill
+ATM,3,T_AT3_8,T_AT3_9,5.863,5.535,-0.328,Possible Overkill
+ATM,4,T_AT3_11,T_AT3_12,5.865,5.285,-0.58,Low Priority
+ATM,5,T_AT3_14,T_AT3_15,5.889,5.53,-0.36,Keep Up (pertahankan)
+ATM,6,T_AT3_17,T_AT3_18,5.839,5.375,-0.464,Low Priority
+ATM,7,T_AT3_20,T_AT3_21,5.884,5.499,-0.385,Keep Up (pertahankan)
+ATM,8,T_AT3_23,T_AT3_24,5.874,5.419,-0.455,Keep Up (pertahankan)
+ATM,9,T_AT3_26,T_AT3_27,5.869,5.545,-0.324,Keep Up (pertahankan)
+ATM,10,T_AT3_29,T_AT3_30,5.849,5.545,-0.304,Possible Overkill
+ATM,11,T_AT3_32,T_AT3_33,5.855,5.497,-0.358,Possible Overkill
+ATM,12,T_AT3_35,T_AT3_36,5.861,5.524,-0.337,Possible Overkill
+ATM,13,T_AT3_38,T_AT3_39,5.859,5.432,-0.426,Possible Overkill
+ATM,14,T_AT3_41,T_AT3_42,5.876,5.537,-0.339,Keep Up (pertahankan)
+ATM,15,T_AT3_44,T_AT3_45,5.864,5.48,-0.384,Possible Overkill
+ATM,16,T_AT3_47,T_AT3_48,5.878,5.524,-0.354,Keep Up (pertahankan)
+ATM,17,T_AT3_50,T_AT3_51,5.835,5.444,-0.391,Possible Overkill
+ATM,18,T_AT3_53,T_AT3_54,5.864,5.396,-0.468,Low Priority

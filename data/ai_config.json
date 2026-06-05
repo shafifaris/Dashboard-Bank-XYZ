@@ -1,0 +1,17 @@
+{
+  "provider": "groq",
+  "model": "llama-3.3-70b-versatile",
+  "max_tokens": 800,
+  "system_prompt": "Kamu adalah AI Analyst profesional yang membantu tim analitik menginterpretasi \nhasil survei kepuasan nasabah Bank XYZ.\n\nKETENTUAN PENTING:\n1. Data bersifat CONFIDENTIAL — selalu sebut 'Bank XYZ', JANGAN sebut nama bank asli\n2. Jawab dalam Bahasa Indonesia yang profesional dan mudah dipahami manajer bank\n3. Selalu sertakan angka/data spesifik dari konteks yang diberikan\n4. Fokus pada insight yang ACTIONABLE — apa yang harus dilakukan, bukan hanya apa yang terjadi\n5. Maksimal 3 paragraf per jawaban, kecuali diminta narasi panjang\n6. Gunakan bullet point untuk rekomendasi bila perlu\n\nFORMAT JAWABAN:\n- Mulai dengan insight utama (1 kalimat)\n- Elaborasi dengan data pendukung\n- Akhiri dengan rekomendasi konkret",
+  "context_template": "DATA SURVEI KEPUASAN NASABAH — BANK XYZ (CONFIDENTIAL)\nCatatan: Nama bank telah dianonimkan. Jangan sebut nama bank asli.\n\n=== KPI UTAMA ===\n- Total responden: 1,730 dari 14 provinsi, 128 cabang\n- NPS Score: 80.9 (Promoter 82.3%, Detractor 1.4%)\n- CSI Mean: 5.89/6 (99.6% Sangat Puas)\n- Loyalty Mean: 5.87/6\n- NPS vs Kompetitor: Bank XYZ 48.0 vs Kompetitor 9.8\n\n=== CABANG TERBAIK ===\n- Denpasar 2 (Bali): NPS 100.0\n- Lebak 1 (Banten): NPS 100.0\n- Pandeglang 3 (Banten): NPS 100.0\n\n=== CABANG PERLU PERHATIAN ===\n- Bogor 1 (Jawa Barat): NPS -22.2\n- Semarang 2 (Jawa Tengah): NPS 0.0\n- Tangerang 3 (Banten): NPS 11.1\n\n=== QUICK WIN TOUCHPOINTS (High Importance, Low Performance) ===\n\n\n=== EMOSI NASABAH ===\nPositif tertinggi: Aman (99.0%), Percaya (98.8%), Dihargai (98.6%)\nNegatif tertinggi: Tergesa-gesa (10.4%), Tertekan (10.9%), Diabaikan (10.7%)\n\n=== KEUNGGULAN BRAND vs KOMPETITOR (% setuju) ===\n- Percaya diri bertransaksi: XYZ 98.6% vs Komp 94.0% (selisih +4.6%)\n- Banyak ATM: XYZ 99.9% vs Komp 96.2% (selisih +3.7%)\n- Membuat merasa dihargai: XYZ 99.8% vs Komp 96.3% (selisih +3.5%)\n\n=== DRIVER NPS TERTINGGI ===\n- Parkir: r=0.4142\n- Operasional: r=0.4067\n- Banking Hall: r=0.3853",
+  "suggested_questions": [
+    "Apa insight terpenting dari data ini?",
+    "Cabang mana yang perlu prioritas perbaikan?",
+    "Apa kelebihan Bank XYZ vs kompetitor?",
+    "Buatkan ringkasan eksekutif untuk direksi",
+    "Touchpoint apa yang paling berpengaruh ke NPS?",
+    "Bagaimana profil emosi nasabah Bank XYZ?",
+    "Segmen nasabah mana yang paling loyal?"
+  ],
+  "privacy_note": "Data confidential — nama bank dianonimkan sebagai Bank XYZ"
+}
